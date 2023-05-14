@@ -11,6 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianjones95&show_icons=true&locale=en" alt="julianjones95" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=julianjones95" alt="julianjones95" /></a> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianjones95&" alt="julianjones95" /></p>
